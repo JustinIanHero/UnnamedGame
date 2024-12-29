@@ -15,5 +15,8 @@
 * 故事模式：體驗扣人心弦的劇情。
 * 特別模式：開啟 CG、結局、音樂鑒賞等內容，盡情享受遊戲收藏要素。
 
+## 程式語言
+遊戲軟體基於 [krkrz](https://krkrz.github.io/) 與 [The NVL Maker](https://www.nvlmaker.net/) 之開放[原始碼軟體](https://sites.google.com/view/csiegalgamehw/credits)
+
 ## 為什麼沒有上傳 Code
 由於 Code 太多 Github 不給傳，想看Code請至 [Releases](https://github.com/JustinIanHero/csiegalgamehw/releases)
